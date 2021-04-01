@@ -1,2 +1,2 @@
-# I-dont-want-to-name-things-any-more
-this is boring
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
